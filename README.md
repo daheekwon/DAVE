@@ -22,7 +22,7 @@ Follow the steps below to prepare the environment and install DAVE.
 Create and activate the required Conda environment:
 
 ```
-conda env create -f environment.yaml
+conda env create -f environment.yml
 conda activate DAVE
 ```
 ### 2. Install Diffusers
@@ -59,7 +59,7 @@ If you want to apply this method to models beyond Stable Diffusion 3, simply ada
 ## 🚀 Usage
 Now you are ready to play with DAVE!  
 You can interactively explore our method using the provided Jupyter notebook:
-- 📓 **[`DAVE-demo.ipynb`](./DAVE-demo.ipynb)**
+- 📓 **[`DAVE-demo.ipynb`](./demo.ipynb)**
 
 
 ## 📝 Citation
