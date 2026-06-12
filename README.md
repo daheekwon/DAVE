@@ -66,14 +66,11 @@ You can interactively explore our method using the provided Jupyter notebook:
 If you find this repo useful, please cite our paper:
 
 ```
-@misc{kwon2026breakinglockindiversifyingtexttoimage,
-      title={Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation}, 
-      author={Dahee Kwon and Haeun Lee and Jaesik Choi},
-      year={2026},
-      eprint={2606.06813},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2606.06813}, 
+@article{kwon2026breaking,
+  title={Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation},
+  author={Kwon, Dahee and Lee, Haeun and Choi, Jaesik},
+  journal={arXiv preprint arXiv:2606.06813},
+  year={2026}
 }
 ```
 
